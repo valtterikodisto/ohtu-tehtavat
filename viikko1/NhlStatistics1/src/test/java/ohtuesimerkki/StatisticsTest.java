@@ -35,11 +35,6 @@ public class StatisticsTest {
     stats = new Statistics(readerStub);
   }
 
-  // @Test
-  // public void playersAreCorrect() {
-
-  // }
-
   @Test
   public void playerSearchReturnsNullIfNotFound() {
     Player player = stats.search("Undefined");
