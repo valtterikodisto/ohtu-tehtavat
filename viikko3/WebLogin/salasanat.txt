@@ -1,6 +1,0 @@
-pekka;akkep
-jukka;akkuj
-valtteri;valtteri
-asdf;asdf
-valtteri6606;irettlav
-uuserneim;paasword
